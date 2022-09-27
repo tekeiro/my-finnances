@@ -1,0 +1,2 @@
+- https://blog.jetbrains.com/idea/2019/11/tutorial-reactive-spring-boot-a-javafx-spring-boot-application/
+- https://stackoverflow.com/questions/57887944/adding-spring-dependency-injection-in-javafx-jpa-repo-service
